@@ -99,7 +99,7 @@ TextureImporter:
       213: -8220513342782718887
     second: TILESET WINTER DAY_31
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -120,6 +120,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -158,6 +159,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -185,6 +187,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -880,6 +906,39 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      TILESET WINTER DAY_15: 8830696400190441020
+      TILESET WINTER DAY_27: 1184616788623638242
+      TILESET WINTER DAY_9: 5700711998380146832
+      TILESET WINTER DAY_3: -1669728535831878048
+      TILESET WINTER DAY_4: 5365935273242868893
+      TILESET WINTER DAY_13: 4687595376655956640
+      TILESET WINTER DAY_19: 4304658629332679694
+      TILESET WINTER DAY_21: -1405033963719163216
+      TILESET WINTER DAY_28: 1586311417207483589
+      TILESET WINTER DAY_11: 9139331133778925247
+      TILESET WINTER DAY_26: 9036426132619724137
+      TILESET WINTER DAY_1: -3845142068518219082
+      TILESET WINTER DAY_2: -6252488313047513830
+      TILESET WINTER DAY_31: -8220513342782718887
+      TILESET WINTER DAY_16: 502346666441038333
+      TILESET WINTER DAY_10: -1196668208575066314
+      TILESET WINTER DAY_25: 6674438838761259752
+      TILESET WINTER DAY_29: -4399571125603091270
+      TILESET WINTER DAY_18: -8209985628629350543
+      TILESET WINTER DAY_22: 5947976217059050458
+      TILESET WINTER DAY_6: -2385325306863849426
+      TILESET WINTER DAY_14: 8572490302671545431
+      TILESET WINTER DAY_23: -9057142852214029445
+      TILESET WINTER DAY_24: 4914158620567794005
+      TILESET WINTER DAY_30: 443612511578702345
+      TILESET WINTER DAY_7: 6807525318789170818
+      TILESET WINTER DAY_17: 5719962211059875593
+      TILESET WINTER DAY_8: -1776193455593821686
+      TILESET WINTER DAY_0: -7162602273106464853
+      TILESET WINTER DAY_12: 7903451522669117839
+      TILESET WINTER DAY_20: 8906981445630852595
+      TILESET WINTER DAY_5: 7415956598679458993
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

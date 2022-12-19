@@ -36,7 +36,7 @@ TextureImporter:
       213: -378318516567255381
     second: FREE PIXEL ART BUTTONS_10
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -57,6 +57,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -95,6 +96,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -122,6 +124,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -376,6 +402,18 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      FREE PIXEL ART BUTTONS_1: 6667928131151135345
+      FREE PIXEL ART BUTTONS_4: -45530721062552620
+      FREE PIXEL ART BUTTONS_2: 1460023092192308705
+      FREE PIXEL ART BUTTONS_9: 6455777940496148891
+      FREE PIXEL ART BUTTONS_3: 6923385208687083755
+      FREE PIXEL ART BUTTONS_7: 1954306339983728480
+      FREE PIXEL ART BUTTONS_0: -6793383426514680930
+      FREE PIXEL ART BUTTONS_5: 3152187639724184555
+      FREE PIXEL ART BUTTONS_6: 7624146326954390036
+      FREE PIXEL ART BUTTONS_8: 1332073708585426181
+      FREE PIXEL ART BUTTONS_10: -378318516567255381
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

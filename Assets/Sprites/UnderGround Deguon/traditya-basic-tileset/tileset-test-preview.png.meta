@@ -276,7 +276,7 @@ TextureImporter:
       213: -5996143084161126603
     second: tileset-test-preview_90
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -297,6 +297,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -335,6 +336,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -362,6 +364,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2296,6 +2322,98 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tileset-test-preview_5: -3798107682944429369
+      tileset-test-preview_9: -7806822086446375122
+      tileset-test-preview_18: 669633614954968838
+      tileset-test-preview_31: 4778053207414850836
+      tileset-test-preview_32: 1977276035727654035
+      tileset-test-preview_41: 4573735737189508576
+      tileset-test-preview_77: 7321870750520338246
+      tileset-test-preview_56: -4791623636234748383
+      tileset-test-preview_29: -508742178390419802
+      tileset-test-preview_67: 7242038304110385039
+      tileset-test-preview_86: -8115144145811610987
+      tileset-test-preview_20: -3660244752105907928
+      tileset-test-preview_2: -7158101235297497295
+      tileset-test-preview_3: 287086128457724928
+      tileset-test-preview_25: 2278650361107546094
+      tileset-test-preview_33: -1532541988128520551
+      tileset-test-preview_63: -433218392593097712
+      tileset-test-preview_51: -5003108069971399449
+      tileset-test-preview_44: 2404734778796647521
+      tileset-test-preview_88: -6947529560034102471
+      tileset-test-preview_36: -6256427188528185324
+      tileset-test-preview_12: 5852968771030372653
+      tileset-test-preview_21: -8033424828432886717
+      tileset-test-preview_34: 6236182920171770769
+      tileset-test-preview_55: -7067531150681862348
+      tileset-test-preview_75: 160048775179013437
+      tileset-test-preview_82: -4509071703832422946
+      tileset-test-preview_74: 7199497135787985180
+      tileset-test-preview_83: -6434434603195109127
+      tileset-test-preview_90: -5996143084161126603
+      tileset-test-preview_6: -9066519216579727416
+      tileset-test-preview_66: -2034259698185721493
+      tileset-test-preview_19: -7427405427941804692
+      tileset-test-preview_59: 1227300718219586203
+      tileset-test-preview_61: -8749178795163137899
+      tileset-test-preview_54: -6934453360397126280
+      tileset-test-preview_45: -1884009841459414618
+      tileset-test-preview_16: 3682964536246572070
+      tileset-test-preview_76: -5035120452889724112
+      tileset-test-preview_64: 4375514045785046107
+      tileset-test-preview_87: 2042437517860577055
+      tileset-test-preview_15: 2006413974356422913
+      tileset-test-preview_58: -9024900500852972640
+      tileset-test-preview_27: -8567977896842291450
+      tileset-test-preview_49: -335224610300007231
+      tileset-test-preview_0: -5512292888347717076
+      tileset-test-preview_89: 363475317701005465
+      tileset-test-preview_23: -8375123470895013190
+      tileset-test-preview_71: -3224138018404307
+      tileset-test-preview_72: -8249322622514194312
+      tileset-test-preview_85: -1736741655183126488
+      tileset-test-preview_14: -7830167114806192849
+      tileset-test-preview_10: -2192593553089749676
+      tileset-test-preview_30: -806546822778000497
+      tileset-test-preview_81: 8910014659680901020
+      tileset-test-preview_47: -5242820393903766061
+      tileset-test-preview_60: 5817978881421545192
+      tileset-test-preview_52: 61293093091505928
+      tileset-test-preview_70: 3053402657921254691
+      tileset-test-preview_50: 1988920343092841675
+      tileset-test-preview_17: -5167299501842288528
+      tileset-test-preview_53: -1239499925986399442
+      tileset-test-preview_7: -4701372594172094085
+      tileset-test-preview_11: 6930538335895000288
+      tileset-test-preview_8: 8869345646782114939
+      tileset-test-preview_39: -3163147983470357808
+      tileset-test-preview_48: -8347961058797598540
+      tileset-test-preview_40: 780795429625053874
+      tileset-test-preview_38: 1161496963365727855
+      tileset-test-preview_80: -5518129862632925548
+      tileset-test-preview_78: -6381274909292860360
+      tileset-test-preview_22: 6689287521177780267
+      tileset-test-preview_35: -2787255601117334842
+      tileset-test-preview_4: -4512338255277889568
+      tileset-test-preview_57: -7305741534777488013
+      tileset-test-preview_43: -7212235379032573950
+      tileset-test-preview_73: 4016777313841769361
+      tileset-test-preview_28: 117869145637773518
+      tileset-test-preview_46: 1840236440325930126
+      tileset-test-preview_37: 7397251167950018555
+      tileset-test-preview_79: -1459715279280191195
+      tileset-test-preview_84: -219215803523964195
+      tileset-test-preview_65: 8275803552468636409
+      tileset-test-preview_42: 5642577581730611041
+      tileset-test-preview_62: 7200491644702903041
+      tileset-test-preview_69: -8471440508184080283
+      tileset-test-preview_24: 4677179276753998967
+      tileset-test-preview_13: 4906228872538836795
+      tileset-test-preview_1: -7198451523461522232
+      tileset-test-preview_26: -8993852961558843182
+      tileset-test-preview_68: -5066405482028937728
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

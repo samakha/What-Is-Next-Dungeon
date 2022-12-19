@@ -63,7 +63,7 @@ TextureImporter:
       213: -8183076162763699933
     second: castle_tileset_part3_19
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -84,6 +84,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -122,6 +123,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -149,6 +151,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -592,6 +618,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      castle_tileset_part3_13: -1602119837887682838
+      castle_tileset_part3_6: -32568593816861171
+      castle_tileset_part3_0: 7864165168623777088
+      castle_tileset_part3_17: 9127257391480611251
+      castle_tileset_part3_7: 1315957746759116475
+      castle_tileset_part3_4: 7725366669274979516
+      castle_tileset_part3_14: -8764364595874767682
+      castle_tileset_part3_9: -2708740668905151148
+      castle_tileset_part3_19: -8183076162763699933
+      castle_tileset_part3_5: 860516005445655633
+      castle_tileset_part3_11: 8654727738922653688
+      castle_tileset_part3_2: -963273861533089260
+      castle_tileset_part3_12: -408471395944483453
+      castle_tileset_part3_15: 6405440690937401782
+      castle_tileset_part3_10: 5512137177754679119
+      castle_tileset_part3_18: 5897194410281096717
+      castle_tileset_part3_1: -8479468031776872150
+      castle_tileset_part3_8: 8230208863442781802
+      castle_tileset_part3_3: 6026137662872208541
+      castle_tileset_part3_16: -7316231142748570176
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

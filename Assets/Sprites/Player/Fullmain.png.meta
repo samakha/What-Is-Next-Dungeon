@@ -237,7 +237,7 @@ TextureImporter:
       213: -5972592506765405242
     second: Fullmain_77
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -258,6 +258,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -296,6 +297,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -323,6 +325,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1984,6 +2010,85 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Fullmain_69: -9079003970922418780
+      Fullmain_37: -517430162364045562
+      Fullmain_64: -5189679710933565580
+      Fullmain_9: 1559081466870697551
+      Fullmain_11: 1492529450606286379
+      Fullmain_16: -8138304673611764581
+      Fullmain_76: 6477632735558183318
+      Fullmain_14: 4312114636707040737
+      Fullmain_26: 4443240956230035821
+      Fullmain_31: -1219746502584820287
+      Fullmain_38: 698227448594258827
+      Fullmain_43: -8295481683179825873
+      Fullmain_46: -4298088163309312161
+      Fullmain_57: 7520571980516824051
+      Fullmain_56: 4740101712522733477
+      Fullmain_45: -4034985630200902765
+      Fullmain_66: 8487905812767292379
+      Fullmain_60: 5547298171489835374
+      Fullmain_72: -8260850176182168398
+      Fullmain_36: -8123823427344650930
+      Fullmain_75: -2262425194186864419
+      Fullmain_67: 8413005774457935095
+      Fullmain_50: -1417329130253512953
+      Fullmain_28: 2147855563479899000
+      Fullmain_54: -1201125459747608387
+      Fullmain_70: 4486482697377108120
+      Fullmain_41: -1407876788238435831
+      Fullmain_48: -7090564475580259023
+      Fullmain_18: 6077867005822791363
+      Fullmain_42: -491020216549874837
+      Fullmain_22: 8989928884808005679
+      Fullmain_65: -260139385832531396
+      Fullmain_71: 4726503840033254323
+      Fullmain_5: 6910437659813151243
+      Fullmain_34: 7806363712799178404
+      Fullmain_77: -5972592506765405242
+      Fullmain_4: -8827956497445233119
+      Fullmain_6: -2509670004554395264
+      Fullmain_20: 7357392621918811502
+      Fullmain_39: 6917048784942114247
+      Fullmain_25: -7823510778283239430
+      Fullmain_1: 281422546933387224
+      Fullmain_27: 2786516326866266188
+      Fullmain_8: 747095865931446461
+      Fullmain_59: 4935164522691682465
+      Fullmain_29: -3056617271831046936
+      Fullmain_44: -926628324148015587
+      Fullmain_73: 6942239995923131338
+      Fullmain_19: 7691549674682093868
+      Fullmain_7: 4791862928079384461
+      Fullmain_17: 3133159070339497371
+      Fullmain_30: 4346910714426441466
+      Fullmain_47: 7255130789601806022
+      Fullmain_53: 5687363179897051200
+      Fullmain_52: -3662554605337754596
+      Fullmain_21: 6836658074258970582
+      Fullmain_74: -2833657479998714304
+      Fullmain_32: 5963168038037571721
+      Fullmain_55: 740650321945397691
+      Fullmain_61: 2129017332474167832
+      Fullmain_2: 3345659665594473088
+      Fullmain_24: 5589159432343110878
+      Fullmain_33: 8328879212098686858
+      Fullmain_35: -3420947705523351163
+      Fullmain_49: -8581765011702213136
+      Fullmain_0: 2281159582846828405
+      Fullmain_68: -1688528537791988381
+      Fullmain_12: 3140973908469586873
+      Fullmain_15: -516248467558993695
+      Fullmain_62: -7838287151936780121
+      Fullmain_3: -8655876379969528787
+      Fullmain_40: 4029643851245813518
+      Fullmain_10: -4344919626114597710
+      Fullmain_13: -6095904805939563671
+      Fullmain_23: 3139320504706381072
+      Fullmain_51: -7971724829342310419
+      Fullmain_58: -8871606801833823693
+      Fullmain_63: -3715960832873067078
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

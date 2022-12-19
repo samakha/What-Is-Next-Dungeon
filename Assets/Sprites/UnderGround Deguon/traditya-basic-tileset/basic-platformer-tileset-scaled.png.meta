@@ -135,7 +135,7 @@ TextureImporter:
       213: -2227819595733512021
     second: basic-platformer-tileset-scaled_43
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -156,6 +156,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -194,6 +195,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -221,6 +223,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1168,6 +1194,51 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      basic-platformer-tileset-scaled_32: 78452753812164063
+      basic-platformer-tileset-scaled_23: -360444610569697838
+      basic-platformer-tileset-scaled_28: 3939080606388520407
+      basic-platformer-tileset-scaled_37: 1146859185051703320
+      basic-platformer-tileset-scaled_6: 867077079642872112
+      basic-platformer-tileset-scaled_3: 8406952988432233276
+      basic-platformer-tileset-scaled_12: 7367643997573410877
+      basic-platformer-tileset-scaled_35: -264964518070987852
+      basic-platformer-tileset-scaled_22: 5885125594228290215
+      basic-platformer-tileset-scaled_34: 3946606007545020015
+      basic-platformer-tileset-scaled_30: 3830443633887379582
+      basic-platformer-tileset-scaled_31: 8029852267520003356
+      basic-platformer-tileset-scaled_9: 1617326632103759395
+      basic-platformer-tileset-scaled_26: -2539676165877699886
+      basic-platformer-tileset-scaled_40: 8844724615200036390
+      basic-platformer-tileset-scaled_1: -5684978587330085614
+      basic-platformer-tileset-scaled_25: -5634858106905308735
+      basic-platformer-tileset-scaled_0: -4183236210722785058
+      basic-platformer-tileset-scaled_29: 3428775238538555939
+      basic-platformer-tileset-scaled_21: -3395394538748791926
+      basic-platformer-tileset-scaled_13: -6425407526132683189
+      basic-platformer-tileset-scaled_5: -7480821218240620500
+      basic-platformer-tileset-scaled_27: -7441080098374409977
+      basic-platformer-tileset-scaled_42: 5101941677258962598
+      basic-platformer-tileset-scaled_43: -2227819595733512021
+      basic-platformer-tileset-scaled_14: -4806135530025172913
+      basic-platformer-tileset-scaled_38: -1899402516521089524
+      basic-platformer-tileset-scaled_17: 7662944466562216439
+      basic-platformer-tileset-scaled_11: -1487531545955171597
+      basic-platformer-tileset-scaled_10: 7672271717126581479
+      basic-platformer-tileset-scaled_20: 2816332918711973515
+      basic-platformer-tileset-scaled_33: 8212568714986508390
+      basic-platformer-tileset-scaled_16: 1242856708262035668
+      basic-platformer-tileset-scaled_15: -8941759428792009888
+      basic-platformer-tileset-scaled_24: -5603382125701316151
+      basic-platformer-tileset-scaled_41: 6008431539108557398
+      basic-platformer-tileset-scaled_8: -3874782506505301139
+      basic-platformer-tileset-scaled_39: 4157718063941220749
+      basic-platformer-tileset-scaled_2: -3935238895760548124
+      basic-platformer-tileset-scaled_19: 4662842800142831174
+      basic-platformer-tileset-scaled_36: 4358033436012670206
+      basic-platformer-tileset-scaled_7: 3402356501505776212
+      basic-platformer-tileset-scaled_18: -2118825396390102159
+      basic-platformer-tileset-scaled_4: -7448996614796578826
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

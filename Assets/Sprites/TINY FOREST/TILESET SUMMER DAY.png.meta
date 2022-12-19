@@ -99,7 +99,7 @@ TextureImporter:
       213: 6635685664839738571
     second: TILESET SUMMER DAY_31
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -120,6 +120,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -158,6 +159,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -185,6 +187,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -880,6 +906,39 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      TILESET SUMMER DAY_14: 7468217539771815745
+      TILESET SUMMER DAY_23: 6498159311249140718
+      TILESET SUMMER DAY_0: -4590235088970539880
+      TILESET SUMMER DAY_5: 7177686111656820297
+      TILESET SUMMER DAY_13: 384860473829575827
+      TILESET SUMMER DAY_27: -4567696147167294075
+      TILESET SUMMER DAY_6: 5368266595329393629
+      TILESET SUMMER DAY_9: -6083398755710558472
+      TILESET SUMMER DAY_10: 6518025607137659872
+      TILESET SUMMER DAY_24: -7875618886782645266
+      TILESET SUMMER DAY_19: -3049804311263368216
+      TILESET SUMMER DAY_20: -1657350354401981133
+      TILESET SUMMER DAY_11: -8068623411574687416
+      TILESET SUMMER DAY_26: 7003945413435503088
+      TILESET SUMMER DAY_2: -6871566551368207027
+      TILESET SUMMER DAY_8: 4909984829807658951
+      TILESET SUMMER DAY_3: 1959091328046676063
+      TILESET SUMMER DAY_28: -4383285660825132541
+      TILESET SUMMER DAY_15: 1857847957924914981
+      TILESET SUMMER DAY_31: 6635685664839738571
+      TILESET SUMMER DAY_17: -8405319095450592533
+      TILESET SUMMER DAY_18: 8625767689015319549
+      TILESET SUMMER DAY_29: 9196581474399756127
+      TILESET SUMMER DAY_1: 2009809202899774016
+      TILESET SUMMER DAY_16: -8769953497433122470
+      TILESET SUMMER DAY_7: 1935061432274427324
+      TILESET SUMMER DAY_25: 7258621135293100229
+      TILESET SUMMER DAY_30: -313696918456091618
+      TILESET SUMMER DAY_21: 2952742629165914271
+      TILESET SUMMER DAY_22: 1523859806035895459
+      TILESET SUMMER DAY_12: -8041256583604643354
+      TILESET SUMMER DAY_4: 4449363109191792367
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -99,7 +99,7 @@ TextureImporter:
       213: -8664664383639139213
     second: TILESET AUTUMN NIGHT_31
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -120,6 +120,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -158,6 +159,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -185,6 +187,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -880,6 +906,39 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      TILESET AUTUMN NIGHT_3: -4212902940690526690
+      TILESET AUTUMN NIGHT_20: -2596599347779633996
+      TILESET AUTUMN NIGHT_31: -8664664383639139213
+      TILESET AUTUMN NIGHT_7: 393354079613271053
+      TILESET AUTUMN NIGHT_19: -2365229826439122663
+      TILESET AUTUMN NIGHT_8: -3791344177365459779
+      TILESET AUTUMN NIGHT_28: -9001047435659341969
+      TILESET AUTUMN NIGHT_18: -1944572297832457480
+      TILESET AUTUMN NIGHT_29: 2152133913827652597
+      TILESET AUTUMN NIGHT_6: -8747137574174839914
+      TILESET AUTUMN NIGHT_17: 925929926386781333
+      TILESET AUTUMN NIGHT_27: -6277927676436055780
+      TILESET AUTUMN NIGHT_1: -4912690923814041535
+      TILESET AUTUMN NIGHT_14: -300777470095686585
+      TILESET AUTUMN NIGHT_13: 7940134155921889934
+      TILESET AUTUMN NIGHT_22: 1310527724261476680
+      TILESET AUTUMN NIGHT_12: -2323269334678656744
+      TILESET AUTUMN NIGHT_5: -4776683632690455879
+      TILESET AUTUMN NIGHT_24: 1142025640204998617
+      TILESET AUTUMN NIGHT_2: -931029220686819405
+      TILESET AUTUMN NIGHT_9: 257047222775499678
+      TILESET AUTUMN NIGHT_0: -3075263023331234621
+      TILESET AUTUMN NIGHT_16: -2824569014565643148
+      TILESET AUTUMN NIGHT_26: -4004866385687337176
+      TILESET AUTUMN NIGHT_21: -7038357246678288460
+      TILESET AUTUMN NIGHT_11: 8493715197031965919
+      TILESET AUTUMN NIGHT_23: 4624512318024611221
+      TILESET AUTUMN NIGHT_4: 8984847722669512937
+      TILESET AUTUMN NIGHT_15: -5923016805488378380
+      TILESET AUTUMN NIGHT_25: -6834434027446992638
+      TILESET AUTUMN NIGHT_30: -7295420127823035720
+      TILESET AUTUMN NIGHT_10: 2871907783393045377
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
